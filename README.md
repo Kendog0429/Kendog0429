@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hi there! 👋 I'm Kenneth Shelton, a passionate political organizer, data enthusiast, and experienced trainer currently serving as the Director of Training and Deputy Organizing Director at Citizen Action of New York.
+Hi there! I'm Kenneth Shelton, a passionate political organizer, data enthusiast, and experienced trainer currently serving as the Director of Training and Deputy Organizing Director at Citizen Action of New York.
 
 I specialize in developing systems for political organizing, leadership development, and building powerful coalitions for progressive causes. I’m deeply committed to integrating data-driven solutions in organizing campaigns, using tools like NGP VAN, Salesforce, and various digital platforms to engage communities and drive change.
 
